@@ -83,7 +83,7 @@ def banner():
                sys.stdout.write(c)
                sys.stdout.flush()
                time.sleep(10. / 100)
-       slowprint("\033[1;32m[+]\033[36m MarsLayer7 Aracı Başarıyla İndi. ")
+       slowprint("\033[1;32m[+]\033[36m MarsWebAdmin Panel Finder Aracı Başarıyla İndi. ")
        time.sleep(1)
        banner()
     if a=='4':
