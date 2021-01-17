@@ -7,13 +7,13 @@ Güncellemeler Hakkında Bilgiler Verilmeyecektir
 
 # Kullanım 
 
-"""
+```
 
 git clone https://github.com/Mars0J/MarsHackTools
 cd MarsHackTools
 python3 MarsHackTools
 
-"""
+```
 
 
 
