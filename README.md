@@ -2,4 +2,6 @@
 MarsHackTools Güncelleme Alacak Hacker Aracı
 
 
-:+1: ssaaa
+Güncellemeler Hakkında Bilgiler Verilmeyecektir
+
+***Made By Mars***
