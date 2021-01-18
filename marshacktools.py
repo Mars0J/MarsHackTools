@@ -77,7 +77,7 @@ def banner():
        banner()
     if a=='3':
        os.system("clear")
-       os.system("git clone https://github.com/Mars0J/MarsWebAdminPanel-Finder")
+       os.system("git clone https://github.com/Mars0J/Mars-WebAdminPanel-Finder")
        def slowprint(s):
            for c in s + '\n' :
                sys.stdout.write(c)
