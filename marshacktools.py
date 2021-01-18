@@ -122,7 +122,7 @@ def banner():
        banner()
     if a=='7':
        os.system("clear")
-       os.system("git clone https://github.com/Mars0J/Brute-İnsta-")
+       os.system("git clone https://github.com/Mars0J/Brute-insta-")
        def slowprint(s):
            for c in s + '\n' :
                sys.stdout.write(c)
