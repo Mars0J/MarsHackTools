@@ -1,7 +1,7 @@
 # MarsHackTools
 MarsHackTools Güncelleme Alacak Hacker Aracı
 
-
+<i class="fab fa-twitter"></i>
 Güncellemeler Hakkında Bilgiler Verilmeyecektir
 
 
