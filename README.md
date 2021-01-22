@@ -1,4 +1,4 @@
-# MarsHackTools [! [ İklim Kodu ] (https://codeclimate.com/github/cloudfoundry/membrane.png)] (https://codeclimate.com/github/cloudfoundry/membrane)
+# MarsHackTools 
 [! [ Derleme Durumu ] (https://travis-ci.org/cloudfoundry/membrane.png)] (https://travis-ci.org/cloudfoundry/membrane)
 MarsHackTools Güncelleme Alacak Hacker Aracı
 
