@@ -1,4 +1,4 @@
-# MarsHackTools 
+# MarsHackTools https://img.shields.io/cirrus/github/Mars0J/MarsHackTools?color=b22222&label=Version&task=v1.0
 MarsHackTools Güncelleme Alacak Hacker Aracı
 
 <i class="fab fa-twitter"></i>
