@@ -1,5 +1,4 @@
-# MarsHackTools ![](https://img.shields.io/github/repo-size/Mars0J/MarsHackTools?color=b22222)
-![](https://img.shields.io/discord/776519725462585395)
+# MarsHackTools ![](https://img.shields.io/github/repo-size/Mars0J/MarsHackTools?color=b22222)![](https://img.shields.io/discord/776519725462585395)
 MarsHackTools Güncelleme Alacak Hacker Aracı
 
 <i class="fab fa-twitter"></i>
