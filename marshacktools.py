@@ -67,6 +67,9 @@ def banner():
     if a=='2':
        os.system("clear")
        os.system("git clone https://github.com/Mars0J/MarsHackCamera")
+       time.sleep(5)
+       os.system("cd MarsHackCamera")
+       os.system("")
        def slowprint(s):
            for c in s + '\n' :
                sys.stdout.write(c)
