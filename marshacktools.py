@@ -69,7 +69,7 @@ def banner():
        os.system("git clone https://github.com/Mars0J/MarsHackCamera")
        time.sleep(5)
        os.system("cd MarsHackCamera")
-       os.system("")
+       os.system("bash marshackcamera.sh") 
        def slowprint(s):
            for c in s + '\n' :
                sys.stdout.write(c)
